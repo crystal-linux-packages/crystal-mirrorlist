@@ -1,6 +1,6 @@
 pkgname=crystal-mirrorlist
 pkgver=0.1.3
-pkgrel=2
+pkgrel=3
 pkgdesc="Crystal Linux Mirrorlist"
 arch=('any')
 url="https://github.com/crystal-linux-packages/${pkgname}"
