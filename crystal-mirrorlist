@@ -1,3 +1,4 @@
 Server = https://repo.getcryst.al/$repo
 Server = https://executor.repo.getcryst.al/$repo
+Server = http://mirror.ossplanet.net/crystal-linux/$repo
 Server = https://falcon.repo.getcryst.al/$repo
